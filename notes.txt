@@ -1,0 +1,33 @@
+
+step 1 :- configure  conf.js
+
+step2:-
+we created the authention for our app, such that even if we need to remove the authentication it would still work fine
+then we created config.js whiv has various methods adn queries.
+
+step3:- makinh a store store.js,mke another store to track authentication authslice.js
+
+step4:- we will start making components like header footer.js
+
+step 5 :- then we will go to app.jsx and will start to render them for that we will use react redux and dispatch meethods, and conditional rendering practices like creating a loading state
+
+step 6:- ater that we will go to main. jsx to setup the provider and the router
+
+step7:- make components
+
+container:- has the styling properties
+footer
+logoutbtn. 
+and then i will move to header as i would only want to show logout to those who are logged in
+then the button
+input select 
+postcard
+login
+signup
+authlayout
+rte
+postform
+
+pages
+
+step 8:- main.jsx router
